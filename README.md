@@ -5,7 +5,6 @@ The code is clean and can be easily modified
 
 
 # Important instructions
-This code can ONLY be used for educational purposes and personal use
 
 This game requires python to be installed in your computer, python can be installed [here](https://www.python.org/downloads)
 
